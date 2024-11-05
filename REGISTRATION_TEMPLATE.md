@@ -1,4 +1,4 @@
-# Sui Demo Day @ HK Registration Template
+# Sui Demo Day: Bangkok Registration Template
 
 ## Basic Information
 

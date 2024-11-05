@@ -8,12 +8,12 @@ Join us for the demo day of the MVPs built over 11 days during Sui Hacker House:
 
 - **Date**: November 16th, 2023
 - **Time**: 2 PM - 5 PM
-- **Address**: [Eaton Club](https://goo.gl/maps/JM3iJA8EYWfNYj8bA), 5/F, Champion Tower, 3 Garden Rd, Central, Central, Hong Kong
+- **Address**: [Contribution DAO Office](https://maps.app.goo.gl/USz5pHpkEhBiCteaA), 34 Phaya Thai Rd, Thung Phaya Thai, Ratchathewi, Bangkok 10400
 
 ## Contest Eligibility
 
 - The project must be deployed to Sui mainnet, testnet, devnet or otherwise integrated with Sui
-- Both new and existing Sui projects are welcome to participate
+- At least one of the project's team members must have attended Sui Hacker House: Bangkok
 - At least one of the project's team members must be able to attend Sui Demo Day in-person to present the project
 - A member of the team must pass KYC to receive any prizes
 - For detailed terms and conditions of the Sui Demo Day contest, please check [here](./TERMS.md)
