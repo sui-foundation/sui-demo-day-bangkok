@@ -6,7 +6,7 @@ Join us for the demo day of the MVPs built over 11 days during Sui Hacker House:
 
 ## Key Information
 
-- **Date**: November 16th, 2023
+- **Date**: November 16th, 2024
 - **Time**: 2 PM - 5 PM
 - **Address**: [Contribution DAO Office](https://maps.app.goo.gl/USz5pHpkEhBiCteaA), 34 Phaya Thai Rd, Thung Phaya Thai, Ratchathewi, Bangkok 10400
 
