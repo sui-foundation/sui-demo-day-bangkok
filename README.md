@@ -2,7 +2,7 @@
 
 ## Overview
 
-Join us for the demo day of the MVPs built over 11 days during Sui Hacker House: Bangkok, co-organized by Contribution DAO, Bewater and Sui Foundation; and sponsored by Pyth.
+Join us for the demo day of the MVPs built over 11 days during Sui Hacker House: Bangkok, co-organized by [Contribution DAO](https://x.com/contributedao?lang=en), [Bewater](https://x.com/bewaterofficial) and [Sui Foundation](https://x.com/suifoundation?lang=en); and sponsored by [Pyth](https://x.com/PythNetwork).
 
 ## Key Information
 
@@ -21,8 +21,6 @@ Join us for the demo day of the MVPs built over 11 days during Sui Hacker House:
 ## Registration 
 
 1. Fork this current repository and create a copy of the [Registration Template Form](./REGISTRATION_TEMPLATE.md) under the `demo-projects` folder.
-
-    _Note: a given project can only register under one track._
 
 3. Fill out the information on the [Registration Template Form](./REGISTRATION_TEMPLATE.md), and change the file name to your project name, so that the file name is of the form `[your project name].md`. 
 
