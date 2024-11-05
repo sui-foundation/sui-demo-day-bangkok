@@ -2,7 +2,7 @@
 
 ## Basic Information
 
-### Project Name or Logo
+### Project Name
 
 Enter the project name here
 
@@ -12,13 +12,13 @@ You can also include the project logo by adding the image file to the `assets` [
 
 Enter the project website's URL here 
 
-### Primary Contact
-
-Email, Telegram or Twitter
-
 ### Team Members
 
-Please list the name of your team members
+Please list the names and emails of your team members
+
+### Presenter Telegram 
+
+Telegram account of the presenter
 
 ### GitHub Repository
 
@@ -36,4 +36,6 @@ Please limit to one page, you can include graphics by adding the images to the `
 - Will, at least, one of your team members be able to present your team project in-person at the Sui Demo Day @ HK on April 16th, 2023?
     - [ ] Yes
     - [ ] No
-- Did your project 
+- Did, at least, one of your team members participate in Sui Hacker House: Bangkok? 
+    - [ ] Yes
+    - [ ] No
