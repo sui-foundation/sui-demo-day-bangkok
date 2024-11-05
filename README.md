@@ -85,15 +85,15 @@ Ranked list based on audience voting of their favorite projects and pitches
 - 2nd Place. $2,000
 - 3rd Place. $1,000
 
-### Pyth Network Sponsor Prize $3,000
+### Pyth Network Sponsor Prize
 
 Pyth will give out prizes to the teams who will build the most innovative applications consuming Pyth oracles.
 
-**Pyth Prize Shortlisting:** 
+**Pyth Prize Shortlisting** 
 
-The top 2 projects will be shortlisted. The prize will be distributed equally, amounting to ($1500).
+The top 2 projects will be shortlisted. The prize will be distributed equally, amounting to ($1500 * 2).
 
-**Pyth Prize Deliverables:**
+**Pyth Prize Deliverables**
 
 Your submission should include:
 
