@@ -32,11 +32,9 @@ Join us for the demo day of the MVPs built over 11 days during Sui Hacker House:
 
 ### Schedule
 
-- 2:00pm-2:30pm doors open / networking
-
-- ​2:30pm-4:30pm demo presentations
-
-​- 4:30pm-5:00pm networking 
+* 2:00 pm - 2:30 pm Doors open / networking
+* ​2:30 pm - 4:30 pm Demo Presentations
+* 4:30 pm - 5:00 pm Buffer and Networking
 
 ### Presentation Order
 
@@ -71,7 +69,7 @@ Presentation order will be updated
 
 ## Prize Structure
 
-### Judges’ Choice
+### Sui Demo Day Judges’ Choice
 
 The judges will assign points in each category; and rank the top teams with the best projects based on the average of the judges’ scores
 
@@ -79,7 +77,7 @@ The judges will assign points in each category; and rank the top teams with the 
 - 2nd Place. $2,000
 - 3rd Place. $1,000
 
-### Audience Choice
+### Sui Demo Day Audience Choice
 
 Ranked list based on audience voting of their favorite projects and pitches
 
@@ -91,11 +89,11 @@ Ranked list based on audience voting of their favorite projects and pitches
 
 Pyth will give out prizes to the teams who will build the most innovative applications consuming Pyth oracles.
 
-**Shortlisting:** 
+**Pyth Prize Shortlisting:** 
 
 The top 2 projects will be shortlisted. The prize will be distributed equally, amounting to ($1500).
 
-**Deliverables:**
+**Pyth Prize Deliverables:**
 
 Your submission should include:
 
@@ -105,7 +103,7 @@ Your submission should include:
 - Supporting documentation (*a 1-2 pager should be sufficient*) explaining your *dApps* features, architecture, and how it leverages Pyth’s data.
 - A video demo is showcasing your a*pp* in action
 
-**Total Prize Pool: $15,000**
+### **Total Prize Pool: $15,000**
 
 **Prize categories can stack, i.e possible for one team to win a prize from each of the three categories.*
 
