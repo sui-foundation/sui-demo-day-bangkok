@@ -16,7 +16,11 @@ Enter the project website's URL here
 
 Email, Telegram or Twitter
 
-### GitHub Repository (Optional)
+### Team Members
+
+Please list the name of your team members
+
+### GitHub Repository
 
 Enter the project's GitHub repo URL here, optional if not open source
 
@@ -26,9 +30,10 @@ Please limit to one page, you can include graphics by adding the images to the `
 
 ## Eligibility
 
-- Is this project deployed on Sui Devnet or Testnet or otherwise integrated with Sui?
+- Is this project deployed on Sui mainnet, testnet, devnet, or otherwise integrated with Sui?
     - [ ] Yes
     - [ ] No
 - Will, at least, one of your team members be able to present your team project in-person at the Sui Demo Day @ HK on April 16th, 2023?
     - [ ] Yes
     - [ ] No
+- Did your project 
