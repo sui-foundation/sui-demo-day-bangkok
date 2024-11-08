@@ -6,9 +6,13 @@
 
 GUGUPAY
 
+![gugupay](https://github.com/user-attachments/assets/774b866f-8b72-4e3b-b3eb-9c18e91ae4be)
+
+
+
 ### Project Website
 
-https://gugupay.io
+- https://gugupay.io
 
 ### Team Members
 
@@ -19,8 +23,8 @@ https://gugupay.io
 
 ### Presenter Telegram
 
-https://t.me/ntsdjo
-https://t.me/nanthanwa
+- https://t.me/ntsdjo
+- https://t.me/nanthanwa
 
 ### GitHub Repository
 
