@@ -12,7 +12,7 @@ https://t.me/
 
 ### Team Members
 
-[djytwy](https://github.com/djytwy), (shizizuoerding)[https://github.com/shizizuoerding]
+[djytwy](https://github.com/djytwy), [shizizuoerding](https://github.com/shizizuoerding)
 
 ### Presenter Telegram
 
