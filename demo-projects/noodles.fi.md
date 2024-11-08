@@ -12,7 +12,13 @@ Project Website
 
 ### Team Members
 
+https://x.com/longminswap
+
 https://x.com/0xHipHo
+
+https://x.com/PurritoGeneral
+
+https://x.com/parichayayy
 
 
 ### Presenter Telegram
