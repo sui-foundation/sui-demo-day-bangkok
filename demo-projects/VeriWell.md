@@ -4,38 +4,40 @@
 
 ### Project Name
 
-Enter the project name here
+VeriWell
 
 You can also include the project logo by adding the image file to the `assets` [folder](./assets/) in the same PR, and [linking](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#images) to it. 
 
 ### Project Website
 
-Enter the project website's URL here 
+TBA
 
 ### Team Members
 
-Please list the names and emails of your team members
+Yoon Soo Jang: yoonsoo.jang@dsrvlabs.com
+Min Seok Kim: minseok.kim@dsrvlabs.com
 
 ### Presenter Telegram 
 
-Telegram account of the presenter
+@altpd13
 
 ### GitHub Repository
 
-Enter the project's GitHub repo URL here, optional if not open source
+TBA
 
 ## Project Description 
+VeriWell is source code verification platform where Sui Move developers can verfiy source code easily.
 
 Please limit to one page, you can include graphics by adding the images to the `assets` [folder](./assets/) in the same PR, and [linking](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#images) to it. 
 
 ## Eligibility
 
 - Is this project deployed on Sui mainnet, testnet, devnet, or otherwise integrated with Sui?
-    - [ ] Yes
+    - [x] Yes
     - [ ] No
 - Will, at least, one of your team members be able to present your team project in-person at the Sui Demo Day @ Bangkok on November 16th, 2024?
-    - [ ] Yes
+    - [x] Yes
     - [ ] No
 - Did, at least, one of your team members participate in Sui Hacker House: Bangkok? 
-    - [ ] Yes
+    - [x] Yes
     - [ ] No
