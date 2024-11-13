@@ -17,7 +17,7 @@ Suyog Adhikari, Pradeep KC, Sudeep Bhandari, Mallika Bhattarai
 
 ### Presenter Telegram 
 
-@OO7azbc
+[Suyog](https://t.me/OO7azbc)
 
 ### GitHub Repository
 
