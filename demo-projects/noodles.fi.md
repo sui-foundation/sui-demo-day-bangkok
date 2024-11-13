@@ -38,7 +38,7 @@ One-stop-shop for Sui. Users can access news, advanced market insights, and DeFi
 - Is this project deployed on Sui mainnet, testnet, devnet, or otherwise integrated with Sui?
   - [X] Yes (Defi will release after Hacker House)
   - [ ] No
-- Will, at least, one of your team members be able to present your team project in-person at the Sui Demo Day @ HK on April 16th, 2023?
+- Will, at least, one of your team members be able to present your team project in-person at the Sui Demo Day @ Bangkok on November 16th, 2024?
   - [X] Yes
   - [ ] No
 - Did, at least, one of your team members participate in Sui Hacker House: Bangkok?
