@@ -8,7 +8,7 @@ SuiJumpJump
 
 ### Project Website
 
-https://t.me/
+https://t.me/SuiJumpJump_bot
 
 ### Team Members
 
